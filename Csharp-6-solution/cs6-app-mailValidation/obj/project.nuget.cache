@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "FgYiFi5REdFMFRYGhTMmZKQCTQujJ7v1TjPuSYTodWRYtyiQffsdm1tESM7IMokdMNBGefXcvE5qYjfR5SXBcg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\I44105\\Downloads\\LEMONCODE\\03 C#\\testing\\Csharp-6-solution\\cs6-app-mailValidation\\cs6-app-mailValidation.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\I44105\\.nuget\\packages\\castle.core\\5.1.1\\castle.core.5.1.1.nupkg.sha512",
+    "C:\\Users\\I44105\\.nuget\\packages\\moq\\4.20.70\\moq.4.20.70.nupkg.sha512",
+    "C:\\Users\\I44105\\.nuget\\packages\\system.diagnostics.eventlog\\6.0.0\\system.diagnostics.eventlog.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

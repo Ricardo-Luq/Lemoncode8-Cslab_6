@@ -1,0 +1,74 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\I44105\\Downloads\\LEMONCODE\\03 C#\\testing\\Csharp-6-solution\\cs6-app-mailValidation\\cs6-app-mailValidation.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\I44105\\Downloads\\LEMONCODE\\03 C#\\testing\\Csharp-6-solution\\cs6-app-mailValidation\\cs6-app-mailValidation.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\I44105\\Downloads\\LEMONCODE\\03 C#\\testing\\Csharp-6-solution\\cs6-app-mailValidation\\cs6-app-mailValidation.csproj",
+        "projectName": "cs6-app-mailValidation",
+        "projectPath": "C:\\Users\\I44105\\Downloads\\LEMONCODE\\03 C#\\testing\\Csharp-6-solution\\cs6-app-mailValidation\\cs6-app-mailValidation.csproj",
+        "packagesPath": "C:\\Users\\I44105\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\I44105\\Downloads\\LEMONCODE\\03 C#\\testing\\Csharp-6-solution\\cs6-app-mailValidation\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\I44105\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Moq": {
+              "target": "Package",
+              "version": "[4.20.70, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.204\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
